@@ -83,3 +83,8 @@ $ git branch
 ```
 $ git remote -v
 ```
+
+### 4. Test issue link
+```
+$ git commit -m "test issue #2"
+```
